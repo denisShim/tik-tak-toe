@@ -1,4 +1,5 @@
 # React + Vite
+## This is a small game of tic-tac-toe to consolidate the basics of creating an app on React.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
